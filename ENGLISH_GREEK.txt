@@ -1,0 +1,464 @@
+the - το
+of - του
+to - σε
+and - και
+a - μια
+in - μέσα σε
+is - είναι
+it - αυτό
+you - εσύ
+that - εκείνος, εκείνη, εκείνο
+water - νερό
+call - καλώ
+people - άνθρωποι
+down - κάτω
+side - πλευρά
+been - ήταν
+now - τώρα
+find - βρίσκω
+any - οποιοσδήποτε
+new - νέος, νέα, νέο
+night - νύχτα
+real - πραγματικός, πραγματική, πραγματικό
+life - ζωή
+few - λίγοι, λίγες, λίγα
+stop - σταματώ
+open - ανοίγω
+seem - φαίνομαι
+together - μαζί
+next - επόμενος, επόμενη, επόμενο
+white - λευκός, λευκή, λευκό
+children - παιδιά
+begin - αρχίζω
+got - πήρα
+walk - περπατώ
+example - παράδειγμα
+ease - ευκολία
+paper - χαρτί
+often - συχνά
+always - πάντα
+music - μουσική
+those - εκείνοι, εκείνες, εκείνα
+both - και οι δύο
+mark - σημάδι
+book - βιβλίο
+letter - γράμμα, επιστολή
+until - μέχρι
+mile - μίλι
+river - ποτάμι
+car - αυτοκίνητο
+feet - πόδια
+care - φροντίδα
+second - δευτερόλεπτο, δεύτερος
+group - ομάδα
+carry - κουβαλώ
+took - πήρα
+rain - βροχή
+eat - τρώω
+room - δωμάτιο
+friend - φίλος, φίλη
+began - άρχισα
+idea - ιδέα
+fish - ψάρι
+mountain - βουνό
+north - βορράς
+once - μία φορά
+base - βάση
+hear - ακούω
+horse - άλογο
+cut - κόβω
+sure - σίγουρος, σίγουρη
+watch - ρολόι, παρακολουθώ
+test - δοκιμή
+record - εγγραφή
+boat - βάρκα
+common - κοινός, κοινή, κοινό
+gold - χρυσός
+possible - δυνατόν
+plane - αεροπλάνο
+age - ηλικία
+dry - ξηρός, ξηρή
+wonder - αναρωτιέμαι
+laugh - γελώ
+thousand - χίλια
+ago - πριν
+ran - έτρεξα
+check - ελέγχω
+game - παιχνίδι
+shape - σχήμα
+yes - ναι
+hot - ζεστός, ζεστή
+miss - κυρία, χάνω
+brought - έφερα
+heat - ζέστη
+snow - χιόνι
+bed - κρεβάτι
+bring - φέρνω
+sit - κάθομαι
+perhaps - ίσως
+fill - γεμίζω
+east - ανατολή
+weight - βάρος
+language - γλώσσα
+among - ανάμεσα
+color - χρώμα
+face - πρόσωπο
+wood - ξύλο
+main - κύριος, κύρια
+enough - αρκετά
+plain - πεδιάδα
+girl - κορίτσι
+usual - συνηθισμένος, συνηθισμένη
+young - νέος, νέα
+ready - έτοιμος, έτοιμη
+above - πάνω
+ever - ποτέ
+list - λίστα
+though - αν και
+feel - νιώθω
+talk - μιλώ
+bird - πουλί
+soon - σύντομα
+body - σώμα
+dog - σκύλος
+family - οικογένεια
+direct - άμεσος, άμεση
+pose - στάση
+leave - φεύγω
+song - τραγούδι
+measure - μέτρο
+state - κράτος
+product - προϊόν
+black - μαύρος, μαύρη
+short - κοντός, κοντή
+numeral - αριθμός
+class - τάξη
+wind - άνεμος
+question - ερώτηση
+happen - συμβαίνει
+complete - ολοκληρώνω
+ship - πλοίο
+area - περιοχή
+half - μισός, μισή
+rock - βράχος
+order - παραγγελία
+fire - φωτιά
+south - νότος
+problem - πρόβλημα
+piece - κομμάτι
+told - είπα
+knew - ήξερα
+pass - περνώ
+farm - φάρμα
+top - κορυφή
+whole - ολόκληρος, ολόκληρη
+king - βασιλιάς
+size - μέγεθος
+heard - άκουσα
+best - καλύτερος, καλύτερη
+hour - ώρα
+better - καλύτερα
+TRUE - αληθινός, αληθινή
+during - κατά τη διάρκεια
+hundred - εκατό
+am - είμαι
+remember - θυμάμαι
+step - βήμα
+early - νωρίς
+hold - κρατώ
+west - δύση
+interest - ενδιαφέρον
+reach - φτάνω
+fast - γρήγορα
+five - πέντε
+sing - τραγουδώ
+listen - ακούω
+six - έξι
+table - τραπέζι
+travel - ταξιδεύω
+less - λιγότερο
+morning - πρωί
+ten - δέκα
+simple - απλός, απλή
+several - αρκετοί, αρκετές
+vowel - φωνήεν
+toward - προς
+war - πόλεμος
+lay - ξαπλώνω
+against - κατά
+pattern - μοτίβο
+slow - αργός, αργή
+center - κέντρο
+love - αγάπη
+person - άτομο
+money - χρήματα
+serve - εξυπηρετώ
+appear - εμφανίζομαι
+road - δρόμος
+map - χάρτης
+science - επιστήμη
+rule - κανόνας
+govern - διακυβερνώ
+pull - τραβώ
+cold - κρύος, κρύα
+notice - ειδοποίηση
+voice - φωνή
+fall - πέφτω
+power - δύναμη
+town - πόλη
+fine - καλός, καλή
+certain - σίγουρος, σίγουρη
+fly - πετώ
+unit - μονάδα
+lead - οδηγώ
+cry - κλαίω
+dark - σκοτεινός, σκοτεινή
+machine - μηχάνημα
+note - σημείωση
+wait - περιμένω
+plan - σχέδιο
+figure - φιγούρα
+star - αστέρι
+box - κουτί
+noun - ουσιαστικό
+field - πεδίο
+rest - υπόλοιπο
+correct - σωστός, σωστή
+able - ικανός, ικανή
+pound - λίρα
+done - έγινε
+beauty - ομορφιά
+drive - οδηγώ
+stood - στάθηκα
+contain - περιέχω
+front - μπροστά
+teach - διδάσκω
+week - εβδομάδα
+final - τελικός, τελική
+gave - έδωσα
+green - πράσινος, πράσινη
+quick - γρήγορος, γρήγορη
+develop - αναπτύσσω
+sleep - ύπνος
+warm - ζεστός, ζεστή
+free - ελεύθερος, ελεύθερη
+minute - λεπτό
+strong - δυνατός, δυνατή
+special - ειδικός, ειδική
+mind - μυαλό
+behind - πίσω
+clear - καθαρός, καθαρή
+tail - ουρά
+produce - παράγω
+fact - γεγονός
+street - δρόμος
+inch - ίντσα
+lot - πολύ
+nothing - τίποτα
+course - μάθημα
+stay - μένω
+wheel - τροχός
+full - γεμάτος, γεμάτη
+force - δύναμη
+blue - μπλε
+object - αντικείμενο
+decide - αποφασίζω
+surface - επιφάνεια
+deep - βαθύς, βαθιά
+moon - φεγγάρι
+island - νησί
+foot - πόδι
+yet - ακόμα
+busy - απασχολημένος, απασχολημένη
+test - δοκιμή
+record - εγγραφή
+boat - βάρκα
+common - κοινός, κοινή
+gold - χρυσός
+possible - δυνατόν
+plane - αεροπλάνο
+age - ηλικία
+dry - ξηρός, ξηρή
+wonder - αναρωτιέμαι
+laugh - γελώ
+thousand - χίλια
+ago - πριν
+ran - έτρεξα
+check - ελέγχω
+game - παιχνίδι
+shape - σχήμα
+yes - ναι
+hot - ζεστός, ζεστή
+miss - κυρία, χάνω
+brought - έφερα
+heat - ζέστη
+snow - χιόνι
+bed - κρεβάτι
+bring - φέρνω
+sit - κάθομαι
+perhaps - ίσως
+fill - γεμίζω
+east - ανατολή
+weight - βάρος
+language - γλώσσα
+among - ανάμεσα
+start - ξεκινώ
+might - μπορεί
+story - ιστορία
+saw - είδα
+far - μακριά
+sea - θάλασσα
+draw - σχεδιάζω
+left - αριστερά
+late - αργά
+run - τρέχω
+while - ενώ
+press - πιέζω
+close - κοντά
+night - νύχτα
+real - πραγματικός, πραγματική
+life - ζωή
+few - λίγοι, λίγες, λίγα
+stop - σταματώ
+open - ανοίγω
+seem - φαίνομαι
+together - μαζί
+next - επόμενος, επόμενη, επόμενο
+white - λευκός, λευκή, λευκό
+children - παιδιά
+begin - αρχίζω
+got - πήρα
+walk - περπατώ
+example - παράδειγμα
+ease - ευκολία
+paper - χαρτί
+often - συχνά
+always - πάντα
+music - μουσική
+those - εκείνοι
+both - και οι δύο
+mark - σημάδι
+book - βιβλίο
+letter - γράμμα
+until - μέχρι
+mile - μίλι
+river - ποτάμι
+car - αυτοκίνητο
+feet - πόδια
+care - φροντίδα
+second - δευτερόλεπτο
+group - ομάδα
+carry - κουβαλώ
+took - πήρα
+rain - βροχή
+eat - τρώω
+room - δωμάτιο
+friend - φίλη
+began - άρχισα
+idea - ιδέα
+fish - ψάρι
+mountain - βουνό
+north - βορράς
+once - μία φορά
+base - βάση
+hear - ακούω
+horse - άλογο
+cut - κόβω
+sure - σίγουρη
+watch - ρολόι
+color - χρώμα
+face - πρόσωπο
+wood - ξύλο
+enough - αρκετά
+plain - πεδιάδα
+girl - κορίτσι
+usual - συνηθισμένη
+young - νέος, νέα
+ready - έτοιμη
+above - πάνω
+ever - ποτέ
+red - κόκκινη
+list - λίστα
+though - αν και
+feel - νιώθω
+talk - μιλώ
+bird - πουλί
+soon - σύντομα
+body - σώμα
+dog - σκύλος
+family - οικογένεια
+direct - άμεση
+pose - στάση
+leave - φεύγω
+song - τραγούδι
+measure - μέτρο
+state - κράτος
+product - προϊόν
+black - μαύρη
+short - κοντή
+numeral - αριθμός
+class - τάξη
+wind - άνεμος
+question - ερώτηση
+happen - συμβαίνει
+complete - ολοκληρώνω
+ship - πλοίο
+area - περιοχή
+half - μισή
+rock - βράχος
+order - παραγγελία
+fire - φωτιά
+south - νότος
+problem - πρόβλημα
+piece - κομμάτι
+told - είπα
+knew - ήξερα
+pass - περνώ
+farm - φάρμα
+top - κορυφή
+whole - ολόκληρη
+king - βασιλιάς
+size - μέγεθος
+heard - άκουσα
+best - καλύτερη
+hour - ώρα
+better - καλύτερα
+true - αληθινή
+during - κατά τη διάρκεια
+hundred - εκατό
+am - είμαι
+remember - θυμάμαι
+step - βήμα
+early - νωρίς
+hold - κρατώ
+west - δύση
+ground - έδαφος
+interest - ενδιαφέρον
+reach - φτάνω
+fast - γρήγορα
+five - πέντε
+sing - τραγουδώ
+listen - ακούω
+six - έξι
+table - τραπέζι
+travel - ταξιδεύω
+less - λιγότερο
+morning - πρωί
+ten - δέκα
+simple - απλή
+hello - γειά σας
+my - μου
+name - όνομα
+I - εγώ
+lemon - λεμονί
+lemons - λεμόνια
+like - αρέσει
+purple - μοβ
+flower - λουλούδι
+sweets - γλυκά
+where - πού
+bathroom - τουαλέτα
+toast - τοστ
+apple - μήλο
+eliana - ηλιανα
+cat - γατα
